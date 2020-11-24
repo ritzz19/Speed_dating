@@ -8,3 +8,5 @@ The dataset also includes questionnaire data gathered from participants at diffe
 For more analysis from Iyengar and Fisman, read Racial Preferences in Dating.
 
 link: https://www.kaggle.com/annavictoria/speed-dating-experiment
+
+Notebook link: https://colab.research.google.com/drive/1gQvoBOgy0iqSwG_1E3J6M3lZISADgFrb#scrollTo=5hzZTxh61O0k
